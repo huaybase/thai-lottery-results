@@ -1,12 +1,12 @@
 # Thai Government Lottery Results
 
-Every draw of the Thai Government Lottery since 1 March 2010 (B.E. 2553), as plain CSV files. Maintained by [HuayBase](https://huaybase.com/dataset) and updated automatically after each draw.
+Every draw of the Thai Government Lottery since 1 March 2010 (B.E. 2553), as plain CSV files. Maintained by [HuayBase](https://huaybase.com) and updated automatically after each draw.
 
 Want statistics without writing code? HuayBase has [frequent and long-absent numbers](https://huaybase.com/statistics/hot-cold), [digit statistics with a randomness test](https://huaybase.com/statistics/digits) and a [tool to look up your own number](https://huaybase.com/my-number), all in Thai.
 
-**ภาษาไทย:** ผลสลากกินแบ่งรัฐบาลทุกงวดตั้งแต่ 1 มีนาคม 2553 เป็นไฟล์ CSV ดูแลโดย HuayBase และอัปเดตอัตโนมัติหลังมีผลงวดใหม่ อ่านสรุปภาษาไทยได้[ด้านล่าง](#ภาษาไทย) หรือที่[หน้าดาวน์โหลดข้อมูล](https://huaybase.com/dataset)
+**ภาษาไทย:** ผลสลากกินแบ่งรัฐบาลทุกงวดตั้งแต่ 1 มีนาคม 2553 เป็นไฟล์ CSV ดูแลโดย [HuayBase](https://huaybase.com) และอัปเดตอัตโนมัติหลังมีผลงวดใหม่ อ่านสรุปภาษาไทยได้[ด้านล่าง](#ภาษาไทย) หรือที่[หน้าดาวน์โหลดข้อมูล](https://huaybase.com/dataset)
 
-อยากดูสถิติโดยไม่ต้องคำนวณเอง ดูได้ที่[เลขออกบ่อย / ไม่ออกนาน](https://huaybase.com/statistics/hot-cold) [สถิติหลักสิบ หลักหน่วย](https://huaybase.com/statistics/digits) และ[เลขของฉันเคยถูกไหม](https://huaybase.com/my-number)
+อยากดูสถิติโดยไม่ต้องคำนวณเอง ดูได้ที่[สถิติหวย](https://huaybase.com) [เลขออกบ่อย / ไม่ออกนาน](https://huaybase.com/statistics/hot-cold) [สถิติหลักสิบ หลักหน่วย](https://huaybase.com/statistics/digits) และ[เลขของฉันเคยถูกไหม](https://huaybase.com/my-number)
 
 ## Files
 
@@ -95,10 +95,10 @@ Each draw is independent. Past results do not change the chance of any number in
 
 [CC BY 4.0](LICENSE). You may reuse and adapt the files, also commercially, if you give credit and say what you changed. The license covers what HuayBase made: the compilation, file format, documentation and notes. The results themselves are facts published by GLO.
 
-Please credit with a link:
+Please credit with links (`nofollow` is fine):
 
 ```
-Data: HuayBase, https://huaybase.com/dataset, CC BY 4.0
+Data: HuayBase https://huaybase.com Dataset: https://huaybase.com/dataset (CC BY 4.0)
 ```
 
 ## ภาษาไทย
@@ -115,8 +115,8 @@ Data: HuayBase, https://huaybase.com/dataset, CC BY 4.0
 
 **สัญญาอนุญาต:** [CC BY 4.0](LICENSE) นำไปใช้ต่อ ดัดแปลง หรือใช้เชิงพาณิชย์ได้ โดยให้เครดิตและบอกว่าแก้ไขอะไรบ้าง สัญญานี้ครอบคลุมส่วนที่ HuayBase จัดทำเอง ส่วนผลรางวัลเป็นข้อเท็จจริงที่สำนักงานสลากกินแบ่งรัฐบาลประกาศ
 
-ข้อความให้เครดิต (ถ้าเป็นเว็บไซต์ ขอให้ทำ URL เป็นลิงก์):
+ข้อความให้เครดิต (ถ้าเป็นเว็บไซต์ ขอให้ทำ URL เป็นลิงก์ จะใส่ nofollow หรือไม่ก็ได้):
 
 ```
-ข้อมูลจาก HuayBase: https://huaybase.com/dataset (CC BY 4.0)
+ข้อมูลจาก HuayBase https://huaybase.com ชุดข้อมูล: https://huaybase.com/dataset (CC BY 4.0)
 ```
