@@ -1,0 +1,399 @@
+date,date_be,actual_draw_date,first,near_first,front3,back3,back2,pdf_url,checked_against_pdf
+2010-03-01,2553-03-01,,215227,215226 215228,,457 627 374 470,97,https://api.glo.or.th/utility/file/download/2dfafc31-63c8-4229-b578-0c8e7f5a6758,true
+2010-03-16,2553-03-16,,364222,364221 364223,,619 996 229 756,97,https://api.glo.or.th/utility/file/download/dc4a6f12-bed1-4828-a519-49b9b188a617,false
+2010-04-01,2553-04-01,,959517,959516 959518,,174 663 447 040,22,https://api.glo.or.th/utility/file/download/de0f15b6-cf57-4145-aee9-021e783bc6d1,false
+2010-04-16,2553-04-16,,211743,211742 211744,,811 744 154 285,96,https://api.glo.or.th/utility/file/download/0a56eb43-ccc4-4447-93a4-92f11f9f4424,false
+2010-05-02,2553-05-02,,360371,360370 360372,,382 040 517 618,06,https://api.glo.or.th/utility/file/download/5036a440-079a-4762-8a0f-e3c2d87894d0,false
+2010-05-16,2553-05-16,,480012,480011 480013,,293 151 770 008,12,https://api.glo.or.th/utility/file/download/73cbd6a2-84f9-4b8e-b496-c327861b0c22,false
+2010-06-01,2553-06-01,,444874,444873 444875,,374 298 996 673,81,https://api.glo.or.th/utility/file/download/80e8517f-452c-417e-906e-2ebb0bc184c7,false
+2010-06-16,2553-06-16,,500104,500103 500105,,200 628 681 816,73,https://api.glo.or.th/utility/file/download/4dc61703-46f7-473e-b8de-c2da1a8ebfe5,false
+2010-07-01,2553-07-01,,480239,480238 480240,,893 450 918 961,68,https://api.glo.or.th/utility/file/download/c4745edf-ffb7-47d4-9bd7-f159ed7febdd,false
+2010-07-16,2553-07-16,,180387,180386 180388,,309 219 572 024,34,https://api.glo.or.th/utility/file/download/5d220a8a-0206-4369-8312-4e2cde95920d,false
+2010-08-01,2553-08-01,,210008,210007 210009,,769 182 727 191,10,https://api.glo.or.th/utility/file/download/8073eac9-3a56-4f39-a8e6-2524c8f0e6b8,false
+2010-08-16,2553-08-16,,911097,911096 911098,,986 578 448 689,64,https://api.glo.or.th/utility/file/download/1f179c97-7b6d-4b09-bcf7-ec6e8f14ce92,false
+2010-09-01,2553-09-01,,354656,354655 354657,,784 570 656 096,11,https://api.glo.or.th/utility/file/download/0595b695-e5a9-45e6-8e1b-4fe19b26cb9f,false
+2010-09-16,2553-09-16,,017422,017421 017423,,103 316 431 075,66,https://api.glo.or.th/utility/file/download/db15b57e-601e-4990-a599-3eda5d04f70b,false
+2010-10-01,2553-10-01,,488372,488371 488373,,091 996 003 246,02,https://api.glo.or.th/utility/file/download/c6a5b590-0d09-4bb6-a8b9-7a572edf74d6,false
+2010-10-16,2553-10-16,,621377,621376 621378,,310 518 385 872,42,https://api.glo.or.th/utility/file/download/2907c1e0-f37c-4002-a63d-fc4cb1d02d3b,false
+2010-11-01,2553-11-01,,191100,191099 191101,,653 968 801 739,59,https://api.glo.or.th/utility/file/download/be177e23-826c-4b46-b03b-893ecdf4e69a,false
+2010-11-16,2553-11-16,,813993,813992 813994,,763 979 907 129,43,https://api.glo.or.th/utility/file/download/12703292-3f49-444a-9415-e0bbc91325ef,true
+2010-12-01,2553-12-01,,181752,181751 181753,,664 470 474 086,09,https://api.glo.or.th/utility/file/download/adb15abc-0071-430c-b6c6-f909c1a0c2fe,false
+2010-12-16,2553-12-16,,334380,334379 334381,,529 315 533 306,24,https://api.glo.or.th/utility/file/download/0fc9a297-ba9f-40ed-9e91-e7b7ee6734d3,false
+2010-12-30,2553-12-30,,884112,884111 884113,,936 153 186 933,49,https://api.glo.or.th/utility/file/download/dfeb0b9d-31b8-4590-9ebc-44a417a05b57,false
+2011-01-16,2554-01-16,,281062,281061 281063,,227 185 758 546,23,https://api.glo.or.th/utility/file/download/f0f211a7-0a40-4b25-b7fa-d46ffb819ebc,false
+2011-02-01,2554-02-01,,610089,610088 610090,,596 361 121 432,55,https://api.glo.or.th/utility/file/download/aaeb1b90-7049-4254-ae5c-571e0f63ae39,true
+2011-02-16,2554-02-16,,481746,481745 481747,,535 510 384 388,27,https://api.glo.or.th/utility/file/download/90c55be1-5669-4b84-a5fe-2dcef74e9ca3,false
+2011-03-01,2554-03-01,,656037,656036 656038,,544 357 926 396,97,https://api.glo.or.th/utility/file/download/f989daaf-1d74-4f3d-b65c-7318be5da1c9,false
+2011-03-16,2554-03-16,,593331,593330 593332,,209 945 463 737,96,https://api.glo.or.th/utility/file/download/1b8d30f2-d497-4c26-9446-8ff24a873615,false
+2011-04-01,2554-04-01,,814931,814930 814932,,723 584 040 036,01,https://api.glo.or.th/utility/file/download/18ba8205-15dd-498f-a048-175491b19fbb,false
+2011-04-16,2554-04-16,,825988,825987 825989,,263 213 397 593,44,https://api.glo.or.th/utility/file/download/f3dfb622-1d6a-4eba-a124-2cfc2e7abb44,false
+2011-05-02,2554-05-02,,054136,054135 054137,,421 945 133 524,85,https://api.glo.or.th/utility/file/download/9adf6de3-093b-4c37-b9be-241b4d9c416f,false
+2011-05-16,2554-05-16,,406417,406416 406418,,700 044 071 889,05,https://api.glo.or.th/utility/file/download/6cd401e9-eca0-4c24-855d-f3dd7d203913,false
+2011-06-01,2554-06-01,,562370,562369 562371,,656 346 801 556,46,https://api.glo.or.th/utility/file/download/036364dc-4fbb-41bd-b6b4-7e46c33f21a2,false
+2011-06-16,2554-06-16,,351276,351275 351277,,486 167 162 582,88,https://api.glo.or.th/utility/file/download/f34a1330-67dc-4eb1-a48b-7033e3c9eb9f,false
+2011-07-01,2554-07-01,,622953,622952 622954,,390 160 780 463,51,https://api.glo.or.th/utility/file/download/2df19996-ec26-4ddb-88cc-1e6d9326a895,false
+2011-07-16,2554-07-16,,116556,116555 116557,,227 052 534 609,12,https://api.glo.or.th/utility/file/download/5d5ba612-bcf8-4b5a-af68-94bde8cdfc04,false
+2011-08-01,2554-08-01,,218756,218755 218757,,703 583 660 221,12,https://api.glo.or.th/utility/file/download/8fe93517-6387-4e14-aad9-da860a2f5c59,false
+2011-08-16,2554-08-16,,536960,536959 536961,,814 345 074 005,62,https://api.glo.or.th/utility/file/download/0f447dd8-2bcd-4eda-8f3d-2484c40b05be,false
+2011-09-01,2554-09-01,,724533,724532 724534,,847 021 533 821,85,https://api.glo.or.th/utility/file/download/5c142616-8f66-4a88-b618-c993fff74e97,false
+2011-09-16,2554-09-16,,731198,731197 731199,,384 645 812 589,28,https://api.glo.or.th/utility/file/download/a193c2ad-aa42-43b8-8e20-7eac7c6fe2aa,false
+2011-10-01,2554-10-01,,511052,511051 511053,,957 104 189 499,15,https://api.glo.or.th/utility/file/download/f7ff0627-1354-4804-a497-1abf5128f53d,false
+2011-10-16,2554-10-16,,955756,955755 955757,,991 057 329 507,83,https://api.glo.or.th/utility/file/download/dc261a06-3284-44a3-823b-f6afa0ea6338,false
+2011-11-01,2554-11-01,,805540,805539 805541,,771 380 065 221,54,https://api.glo.or.th/utility/file/download/8e434b50-980a-43df-9a5e-cc253cd9e0ef,false
+2011-11-16,2554-11-16,,997777,997776 997778,,425 551 406 993,57,https://api.glo.or.th/utility/file/download/d1d8d185-5823-4314-8bb8-27eec273e910,false
+2011-12-01,2554-12-01,,408147,408146 408148,,922 253 857 739,02,https://api.glo.or.th/utility/file/download/a0665820-2c04-4d32-816e-aeb7b50063ed,false
+2011-12-16,2554-12-16,,884178,884177 884179,,784 235 651 295,21,https://api.glo.or.th/utility/file/download/4ed63dbc-076a-4112-bec8-9687bd9f381c,false
+2011-12-30,2554-12-30,,526402,526401 526403,,168 026 541 597,65,https://api.glo.or.th/utility/file/download/f4937c0a-2d28-46a1-bc65-29179b863d9d,false
+2012-01-16,2555-01-16,,451445,451444 451446,,328 150 941 639,81,https://api.glo.or.th/utility/file/download/cf6bf416-36a7-4a90-bc6b-dc0a21eefc03,false
+2012-02-01,2555-02-01,,320605,320604 320606,,749 426 498 598,32,https://api.glo.or.th/utility/file/download/6c0f5903-2a1a-4d3f-bfcf-e212b2f746c2,false
+2012-02-16,2555-02-16,,648684,648683 648685,,906 214 111 420,18,https://api.glo.or.th/utility/file/download/9903ed25-8683-4bbf-b58e-2d19a0b4adcd,false
+2012-03-01,2555-03-01,,222518,222517 222519,,295 135 711 199,79,https://api.glo.or.th/utility/file/download/1ab409a8-36ca-45f2-838d-ea128393b64b,false
+2012-03-16,2555-03-16,,607064,607063 607065,,606 333 573 350,08,https://api.glo.or.th/utility/file/download/a5d9babf-eea4-47ca-8f5e-06169a2d900a,false
+2012-04-01,2555-04-01,,257562,257561 257563,,581 074 616 332,69,https://api.glo.or.th/utility/file/download/8cfbb4db-513d-4a2c-8a8a-a90cdd6b5b7a,false
+2012-04-16,2555-04-16,,583470,583469 583471,,216 088 722 754,62,https://api.glo.or.th/utility/file/download/31ca7863-5179-4c62-9d5e-07863c5ea633,false
+2012-05-02,2555-05-02,,889501,889500 889502,,589 597 426 468,29,https://api.glo.or.th/utility/file/download/ec908405-9524-4f9d-a25f-9531c42c69a1,false
+2012-05-16,2555-05-16,,814418,814417 814419,,504 309 902 101,31,https://api.glo.or.th/utility/file/download/98041ea4-9e36-4227-8534-2c4c0cdeaf95,false
+2012-06-01,2555-06-01,,882727,882726 882728,,606 576 895 399,38,https://api.glo.or.th/utility/file/download/3b58470f-201b-49a1-b50d-cdc43b0a2201,false
+2012-06-16,2555-06-16,,159373,159372 159374,,238 790 479 547,51,https://api.glo.or.th/utility/file/download/cb26d4ad-f61f-4a01-a4f8-a57e81ede459,false
+2012-07-01,2555-07-01,,915900,915899 915901,,715 656 530 611,60,https://api.glo.or.th/utility/file/download/156f4c10-3e12-42ac-8e66-0b9460064aaa,false
+2012-07-16,2555-07-16,,904050,904049 904051,,897 224 159 042,11,https://api.glo.or.th/utility/file/download/d3adda76-83c8-4dc6-995b-ccaebe964d3c,false
+2012-08-01,2555-08-01,,895590,895589 895591,,820 599 796 745,50,https://api.glo.or.th/utility/file/download/8a9caac7-0f1b-4a42-89f6-2b7aaec9ec81,true
+2012-08-16,2555-08-16,,683877,683876 683878,,032 612 775 730,28,https://api.glo.or.th/utility/file/download/bf0ba99e-d88d-452f-88e6-eeddb6ff3eaa,false
+2012-09-01,2555-09-01,,329997,329996 329998,,736 598 148 639,07,https://api.glo.or.th/utility/file/download/475b4089-7558-47a0-8440-7bc20ca5f090,false
+2012-09-16,2555-09-16,,540143,540142 540144,,242 752 123 770,79,https://api.glo.or.th/utility/file/download/53552a85-7098-48a8-a557-84a6ef4e610c,false
+2012-10-01,2555-10-01,,124025,124024 124026,,940 554 291 873,58,https://api.glo.or.th/utility/file/download/55859784-20a7-4736-af04-82943701304c,false
+2012-10-16,2555-10-16,,281343,281342 281344,,152 089 396 868,28,https://api.glo.or.th/utility/file/download/42218233-fb9f-4bb8-987a-0a1051d9c8e5,false
+2012-11-01,2555-11-01,,524694,524693 524695,,217 188 285 338,63,https://api.glo.or.th/utility/file/download/da12218d-3d87-4727-a166-a3e0b9ce1acb,false
+2012-11-16,2555-11-16,,639500,639499 639501,,576 560 804 627,15,https://api.glo.or.th/utility/file/download/748367ba-0741-46a0-9310-5d3136e6fdfe,false
+2012-12-01,2555-12-01,,110443,110442 110444,,434 553 489 303,43,https://api.glo.or.th/utility/file/download/123b8cb9-8c85-492a-b355-94e3b12da143,false
+2012-12-16,2555-12-16,,529524,529523 529525,,734 745 778 008,72,https://api.glo.or.th/utility/file/download/1cd411b2-b11d-4bf9-a72e-380294f2c427,false
+2012-12-30,2555-12-30,,302358,302357 302359,,589 864 126 832,00,https://api.glo.or.th/utility/file/download/d9f40378-6358-402e-9081-2e73df7f7b41,false
+2013-01-16,2556-01-16,,820981,820980 820982,,555 196 374 334,08,https://api.glo.or.th/utility/file/download/60560915-3f22-4aab-8681-12f1b39db9f8,false
+2013-02-01,2556-02-01,,565566,565565 565567,,452 695 641 782,66,https://api.glo.or.th/utility/file/download/1748e5e6-c143-476c-920a-2c18142aa2b6,true
+2013-02-16,2556-02-16,,368257,368256 368258,,657 708 109 386,09,https://api.glo.or.th/utility/file/download/af475add-95c0-4af5-b9c7-4e9b3a418f4a,false
+2013-03-01,2556-03-01,,976241,976240 976242,,972 721 133 775,37,https://api.glo.or.th/utility/file/download/3483c3cc-2d02-4967-b628-ee789a356baf,false
+2013-03-16,2556-03-16,,968433,968432 968434,,860 959 175 529,52,https://api.glo.or.th/utility/file/download/30062f85-c464-4e1b-92da-7f7581915657,false
+2013-04-01,2556-04-01,,571688,571687 571689,,430 725 170 670,53,https://api.glo.or.th/utility/file/download/65496685-d1f0-452f-8f47-6778841d64c7,false
+2013-04-16,2556-04-16,,843846,843845 843847,,834 862 906 828,86,https://api.glo.or.th/utility/file/download/666c5380-2e56-4524-b60c-defe20c40d57,false
+2013-05-02,2556-05-02,,603458,603457 603459,,272 830 516 359,07,https://api.glo.or.th/utility/file/download/74aa0a9e-e107-4518-98e9-fd62fd958632,false
+2013-05-16,2556-05-16,,687125,687124 687126,,034 261 390 945,56,https://api.glo.or.th/utility/file/download/b9805228-01c5-43c3-8d34-4dc6b6b4021c,false
+2013-06-01,2556-06-01,,935489,935488 935490,,713 716 768 480,90,https://api.glo.or.th/utility/file/download/153f6f3a-b51c-41b9-a2e3-76eb71abb700,false
+2013-06-16,2556-06-16,,289673,289672 289674,,390 098 114 502,69,https://api.glo.or.th/utility/file/download/5c4d4c83-b06e-473d-8cf5-c46745229160,false
+2013-07-01,2556-07-01,,646905,646904 646906,,903 075 904 284,51,https://api.glo.or.th/utility/file/download/121a0dd8-eef7-44a2-860e-460d28452dc2,false
+2013-07-16,2556-07-16,,566996,566995 566997,,352 210 584 526,86,https://api.glo.or.th/utility/file/download/61d92af6-a702-4a69-adfd-bc6cb06fe576,false
+2013-08-01,2556-08-01,,356435,356434 356436,,880 451 718 329,82,https://api.glo.or.th/utility/file/download/2f89e120-da43-4a42-a3ad-b123c9a59381,false
+2013-08-16,2556-08-16,,321327,321326 321328,,417 945 448 201,20,https://api.glo.or.th/utility/file/download/e6fee58e-f842-4234-ba59-34d28fd4e58a,false
+2013-09-01,2556-09-01,,548123,548122 548124,,281 570 800 045,05,https://api.glo.or.th/utility/file/download/3dad1997-ee77-474b-bd9f-f11d03061c26,false
+2013-09-16,2556-09-16,,562684,562683 562685,,056 754 574 235,63,https://api.glo.or.th/utility/file/download/58fc7991-6b2f-4804-97e5-da02986afebd,false
+2013-10-01,2556-10-01,,647882,647881 647883,,576 324 650 028,14,https://api.glo.or.th/utility/file/download/c25987d3-635b-49ba-8f7d-58724dc5469a,false
+2013-10-16,2556-10-16,,963289,963288 963290,,876 529 952 402,60,https://api.glo.or.th/utility/file/download/4dccd7b2-b4db-414f-ace9-21f007930382,false
+2013-11-01,2556-11-01,,739804,739803 739805,,502 020 256 173,47,https://api.glo.or.th/utility/file/download/acb0fa75-64f7-4407-ac2f-238eb43632c8,false
+2013-11-16,2556-11-16,,806925,806924 806926,,672 069 304 753,28,https://api.glo.or.th/utility/file/download/05ca8c2a-7a38-4404-b1b2-5dcb87089263,false
+2013-12-01,2556-12-01,,168795,168794 168796,,734 766 074 980,27,https://api.glo.or.th/utility/file/download/f36eebe8-e9ce-45e5-bffd-37e9284304df,false
+2013-12-16,2556-12-16,,341767,341766 341768,,826 228 111 742,79,https://api.glo.or.th/utility/file/download/4deddc36-4784-4247-9ad7-cac38cf637a9,false
+2013-12-30,2556-12-30,,561072,561071 561073,,513 750 503 275,48,https://api.glo.or.th/utility/file/download/41f0006e-87bb-477e-9d3e-bb8cf44ee564,false
+2014-01-16,2557-01-16,,306902,306901 306903,,242 077 149 510,52,https://api.glo.or.th/utility/file/download/7af12575-0461-4fbb-ad24-6a500e41e1da,false
+2014-02-01,2557-02-01,,180149,180148 180150,,406 888 492 976,95,https://api.glo.or.th/utility/file/download/9bd65349-ce66-44f9-86b3-d63f48b872fd,false
+2014-02-16,2557-02-16,,384245,384244 384246,,397 530 074 521,01,https://api.glo.or.th/utility/file/download/3abdeba7-28c0-423b-81aa-a0451578d20a,false
+2014-03-01,2557-03-01,,906318,906317 906319,,116 537 753 798,35,https://api.glo.or.th/utility/file/download/75b585da-e442-4170-8c01-f07033aea8ad,false
+2014-03-16,2557-03-16,,531404,531403 531405,,305 904 250 400,79,https://api.glo.or.th/utility/file/download/37b3a21d-50a7-4df2-b511-f923984d971f,false
+2014-04-01,2557-04-01,,028866,028865 028867,,186 835 938 499,95,https://api.glo.or.th/utility/file/download/f2ae8b83-6331-42b8-8565-f86617f4f066,false
+2014-04-16,2557-04-16,,153406,153405 153407,,344 013 355 634,26,https://api.glo.or.th/utility/file/download/15434eb4-3390-4c24-b937-1223456b5812,false
+2014-05-02,2557-05-02,,103297,103296 103298,,797 158 673 143,52,https://api.glo.or.th/utility/file/download/6776441f-fe21-43a6-8506-5627fb19ba19,false
+2014-05-16,2557-05-16,,087523,087522 087524,,150 505 112 246,20,https://api.glo.or.th/utility/file/download/6bb946cb-3684-427b-8cdb-b50af7673232,false
+2014-06-01,2557-06-01,,781198,781197 781199,,636 409 324 160,18,https://api.glo.or.th/utility/file/download/4e9d898b-89bc-446f-a74e-e9f15333601e,false
+2014-06-16,2557-06-16,,673920,673919 673921,,158 140 639 576,95,https://api.glo.or.th/utility/file/download/1c3b9025-4eae-4d4e-965c-c95d59509c27,false
+2014-07-01,2557-07-01,,378477,378476 378478,,441 123 864 271,39,https://api.glo.or.th/utility/file/download/8d4dfcca-c775-4b2e-ae7c-27bed5d47d78,false
+2014-07-16,2557-07-16,,468728,468727 468729,,104 944 117 205,45,https://api.glo.or.th/utility/file/download/e652f1ea-807c-40f9-b704-74c1ad5cc5b7,false
+2014-08-01,2557-08-01,,766391,766390 766392,,637 576 349 623,82,https://api.glo.or.th/utility/file/download/10d677cd-2478-451f-9267-3b3f8e59fb79,false
+2014-08-16,2557-08-16,,662842,662841 662843,,639 912 187 633,91,https://api.glo.or.th/utility/file/download/1f6231a0-ee4e-4632-9896-78f1f33ec6c8,false
+2014-09-01,2557-09-01,,856763,856762 856764,,308 912 477 490,22,https://api.glo.or.th/utility/file/download/5460be53-4c56-417f-9382-0658a61b5f2c,false
+2014-09-16,2557-09-16,,772269,772268 772270,,112 342 257 790,35,https://api.glo.or.th/utility/file/download/de388bb9-5408-4e8a-b0f3-ee9c8cb99e3f,false
+2014-10-01,2557-10-01,,375615,375614 375616,,251 086 159 520,44,https://api.glo.or.th/utility/file/download/8841eed2-2e99-4769-acaa-0f520cf2ca10,true
+2014-10-16,2557-10-16,,656409,656408 656410,,647 910 848 784,94,https://api.glo.or.th/utility/file/download/118cc382-7a19-463a-82ad-0fdacd5f2963,false
+2014-11-01,2557-11-01,,206608,206607 206609,,607 203 855 979,44,https://api.glo.or.th/utility/file/download/3ef5f252-03d1-401e-afec-acb7aa23aaf2,false
+2014-11-16,2557-11-16,,479804,479803 479805,,179 709 422 480,25,https://api.glo.or.th/utility/file/download/85229058-40fe-4d17-a770-e257b61c8415,false
+2014-12-01,2557-12-01,,480449,480448 480450,,820 380 580 161,11,https://api.glo.or.th/utility/file/download/dd453bf1-bfea-42c9-84b6-d723f5899d70,false
+2014-12-16,2557-12-16,,948354,948353 948355,,901 080 775 763,90,https://api.glo.or.th/utility/file/download/c1557493-bcc0-4e6e-b694-353e3e436512,false
+2014-12-30,2557-12-30,,461704,461703 461705,,853 982 535 950,57,https://api.glo.or.th/utility/file/download/52a65b4c-e01d-41fc-a909-ed926da5d7d0,false
+2015-01-16,2558-01-16,,244351,244350 244352,,877 398 068 595,74,https://api.glo.or.th/utility/file/download/971d1266-2839-458a-8029-620db67eb63d,false
+2015-02-01,2558-02-01,,155537,155536 155538,,083 286 813 008,79,https://api.glo.or.th/utility/file/download/f399adbe-7cce-4acf-9fa5-f0523735989f,false
+2015-02-16,2558-02-16,,001864,001863 001865,,843 103 825 392,90,https://api.glo.or.th/utility/file/download/01a6e6fb-38f6-46fd-990e-d0ede2ef3dfa,false
+2015-03-01,2558-03-01,,240237,240236 240238,,498 031 857 008,34,https://api.glo.or.th/utility/file/download/dece4d2d-aefe-45d1-b165-13bd4054d509,false
+2015-03-16,2558-03-16,,048151,048150 048152,,623 622 757 339,92,https://api.glo.or.th/utility/file/download/40293e28-603a-428c-9f38-c9c613fe4a4a,false
+2015-04-01,2558-04-01,,605704,605703 605705,,558 962 557 861,70,https://api.glo.or.th/utility/file/download/09c15c03-7863-4582-848a-001362ce730b,false
+2015-04-16,2558-04-16,,506260,506259 506261,,101 164 973 495,38,https://api.glo.or.th/utility/file/download/6e318e93-1f60-4957-8174-1b3fec0e8554,false
+2015-05-02,2558-05-02,,543466,543465 543467,,818 163 366 195,30,https://api.glo.or.th/utility/file/download/1db2b4a8-4dec-40c4-aba6-7392e1374385,false
+2015-05-16,2558-05-16,,011421,011420 011422,,799 484 851 928,38,https://api.glo.or.th/utility/file/download/69e4f90b-524c-43ec-9c89-beaa02934040,false
+2015-06-02,2558-06-02,,388881,388880 388882,,876 700 969 314,65,https://api.glo.or.th/utility/file/download/87adcafd-b26e-4dec-a713-c3f21885fcf4,false
+2015-06-16,2558-06-16,,644742,644741 644743,,429 253 386 532,05,https://api.glo.or.th/utility/file/download/34db349f-60df-4d0d-a5e7-e8eab151fd33,false
+2015-07-01,2558-07-01,,759049,759048 759050,,565 814 081 567,26,https://api.glo.or.th/utility/file/download/144c4d6d-269b-448f-965c-195f723db071,false
+2015-07-16,2558-07-16,,121507,121506 121508,,761 461 830 294,49,https://api.glo.or.th/utility/file/download/862ddea4-2964-4628-bdd3-bdaa1bd1a44c,false
+2015-08-01,2558-08-01,,518677,518676 518678,,598 889 333 648,53,https://api.glo.or.th/utility/file/download/84f12c74-390d-41b8-9627-4afd49243c44,false
+2015-08-16,2558-08-16,,033363,033362 033364,,781 227 624 648,40,https://api.glo.or.th/utility/file/download/d37116b2-8db2-4c75-8654-4d23f4b3e526,true
+2015-09-01,2558-09-01,,021094,021093 021095,260 403,819 068,89,https://api.glo.or.th/utility/file/download/b137abaa-718e-4fce-8edc-484abad58c23,true
+2015-09-16,2558-09-16,,743148,743147 743149,435 209,375 084,06,https://api.glo.or.th/utility/file/download/742a04bd-3989-4b59-abc3-dc9b843608d2,false
+2015-10-01,2558-10-01,,594825,594824 594826,175 918,440 799,07,https://api.glo.or.th/utility/file/download/e6a4682f-b710-4c9e-9808-f35ab999ec9e,false
+2015-10-16,2558-10-16,,968630,968629 968631,457 134,412 054,62,https://api.glo.or.th/utility/file/download/c11c8af0-5e65-487d-8fbb-77e38061dd03,false
+2015-11-01,2558-11-01,,361211,361210 361212,106 757,166 473,45,https://api.glo.or.th/utility/file/download/a1e65f0f-7249-46f6-9d79-fb7e4dfa4603,false
+2015-11-16,2558-11-16,,795283,795282 795284,241 028,643 802,03,https://api.glo.or.th/utility/file/download/2ac8dcf6-7d3e-42ba-9e35-7140a88ed779,false
+2015-12-01,2558-12-01,,915350,915349 915351,238 181,714 175,78,https://api.glo.or.th/utility/file/download/70dff025-6780-4336-8959-c5713fca86ef,false
+2015-12-17,2558-12-17,,930255,930254 930256,140 250,094 638,08,https://api.glo.or.th/utility/file/download/7a1b4278-fa64-44f6-b9b9-74fa8354c8d5,true
+2015-12-30,2558-12-30,,008217,008216 008218,246 264,895 596,02,https://api.glo.or.th/utility/file/download/5443bc76-dd42-4535-841f-8ba01f135e95,false
+2016-01-17,2559-01-17,,304371,304370 304372,031 532,786 743,50,https://api.glo.or.th/utility/file/download/6d6fe2fa-21ac-49e5-a036-ddc5d90ab9b0,true
+2016-02-01,2559-02-01,,927800,927799 927801,625 999,054 076,09,https://api.glo.or.th/utility/file/download/5bc8c9a1-78d1-4b72-a184-bfc19a58f8f3,false
+2016-02-16,2559-02-16,,356364,356363 356365,699 312,309 535,98,https://api.glo.or.th/utility/file/download/89865f69-a19b-46c3-87e7-bfc7ec084ce1,false
+2016-03-01,2559-03-01,,439686,439685 439687,530 426,155 743,06,https://api.glo.or.th/utility/file/download/9f25a7eb-7cdc-46a8-bca2-911be09c5e39,false
+2016-03-16,2559-03-16,,134918,134917 134919,877 855,973 004,32,https://api.glo.or.th/utility/file/download/7cdd4f98-898c-4fd3-a14c-a08d8171831b,false
+2016-04-01,2559-04-01,,066720,066719 066721,546 390,285 852,92,https://api.glo.or.th/utility/file/download/49eb47ba-83b9-4538-890f-4877bc79e5eb,false
+2016-04-16,2559-04-16,,221609,221608 221610,228 008,507 523,87,https://api.glo.or.th/utility/file/download/966787fa-922b-434f-8569-15a2c5057e5b,false
+2016-05-02,2559-05-02,,399459,399458 399460,238 403,671 046,02,https://api.glo.or.th/utility/file/download/c941c532-2d25-483a-8a03-23cf149430fd,false
+2016-05-16,2559-05-16,,141737,141736 141738,975 382,268 087,98,https://api.glo.or.th/utility/file/download/b60ae403-dd6b-441a-9fad-df295172ae77,false
+2016-06-01,2559-06-01,,511825,511824 511826,775 111,937 880,14,https://api.glo.or.th/utility/file/download/45cfa4b2-7277-490e-b323-6814716d54b5,false
+2016-06-16,2559-06-16,,073816,073815 073817,804 251,749 321,79,https://api.glo.or.th/utility/file/download/b22a7a22-05e3-48fa-b434-3ebe521e10d0,false
+2016-07-01,2559-07-01,,082460,082459 082461,169 609,302 173,53,https://api.glo.or.th/utility/file/download/843cd256-bb7c-459a-a8d2-511a886ef445,false
+2016-07-16,2559-07-16,,449764,449763 449765,734 552,925 158,55,https://api.glo.or.th/utility/file/download/a42dcbb5-eb0e-41ec-8826-ae44f9e5371b,false
+2016-08-01,2559-08-01,,272932,272931 272933,538 983,871 472,57,https://api.glo.or.th/utility/file/download/dd432f67-d36e-4b1c-9e27-0eb2b20bc2b1,false
+2016-08-16,2559-08-16,,254004,254003 254005,966 366,596 631,33,https://api.glo.or.th/utility/file/download/000c2266-e2d5-4524-b009-134e20d06633,false
+2016-09-01,2559-09-01,,638684,638683 638685,335 334,669 630,62,https://api.glo.or.th/utility/file/download/13eaf537-8d75-409a-8eba-7bd09bb8a734,false
+2016-09-16,2559-09-16,,240650,240649 240651,583 493,160 043,42,https://api.glo.or.th/utility/file/download/8ca83d4d-783d-4818-b498-e21ae76db3ba,false
+2016-10-01,2559-10-01,,887102,887101 887103,280 194,458 017,33,https://api.glo.or.th/utility/file/download/6982297d-e8a2-44ce-9012-4680d55e8cb6,false
+2016-10-16,2559-10-16,,571947,571946 571948,692 885,032 587,98,https://api.glo.or.th/utility/file/download/66b3c9e6-3861-4c0c-8ab4-7d10e1ddb1ef,false
+2016-11-01,2559-11-01,,785438,785437 785439,976 824,752 038,86,https://api.glo.or.th/utility/file/download/ef6f026f-46d3-488d-b999-0babe5f0ad73,false
+2016-11-16,2559-11-16,,858383,858382 858384,682 040,570 558,44,https://api.glo.or.th/utility/file/download/c6c70ba4-38d5-45ab-99e1-323fdac539c6,false
+2016-12-01,2559-12-01,,086069,086068 086070,513 873,148 450,77,https://api.glo.or.th/utility/file/download/1be291cc-fe76-4d67-90e2-7d98cd3173d7,false
+2016-12-16,2559-12-16,,435286,435285 435287,596 366,716 199,35,https://api.glo.or.th/utility/file/download/77bcd81f-c116-46a8-8074-10f55b2ff6b2,false
+2016-12-30,2559-12-30,,377712,377711 377713,890 304,477 769,46,https://api.glo.or.th/utility/file/download/75e19be0-338a-45b4-bab5-ea403202bb3d,true
+2017-01-17,2560-01-17,,145157,145156 145158,511 663,516 836,25,https://api.glo.or.th/utility/file/download/6c6b346a-c812-45ab-ac86-8197976a4fee,false
+2017-02-01,2560-02-01,,054672,054671 054673,066 807,426 628,42,https://api.glo.or.th/utility/file/download/ed3aa1a6-ef14-436b-bb27-e4a9c5661467,false
+2017-02-16,2560-02-16,,229116,229115 229117,464 128,953 375,14,https://api.glo.or.th/utility/file/download/72675a30-1ea6-487d-884f-5b40ada7b500,false
+2017-03-01,2560-03-01,,978453,978452 978454,560 450,577 052,78,https://api.glo.or.th/utility/file/download/6c0eaa99-6eb7-4a83-9ea0-0770773dd4ef,false
+2017-03-16,2560-03-16,,273863,273862 273864,918 324,941 694,92,https://api.glo.or.th/utility/file/download/873752e9-ef86-4919-9d3b-e420b80805ef,true
+2017-04-01,2560-04-01,,392785,392784 392786,057 020,500 709,80,https://api.glo.or.th/utility/file/download/bad9aad9-5961-41c2-897f-0810a50341d6,false
+2017-04-16,2560-04-16,,816729,816728 816730,766 973,241 807,40,https://api.glo.or.th/utility/file/download/ae25a894-7eb2-4dee-bc70-a7704f2c5fa6,false
+2017-05-02,2560-05-02,,008656,008655 008657,949 573,773 923,35,https://api.glo.or.th/utility/file/download/2e18df3d-40ab-44d3-a261-cbed774aa893,false
+2017-05-16,2560-05-16,,454891,454890 454892,396 008,603 490,53,https://api.glo.or.th/utility/file/download/cd91b070-7a7c-4130-8923-0df21d99ce71,false
+2017-06-01,2560-06-01,,053630,053629 053631,121 218,581 881,61,https://api.glo.or.th/utility/file/download/2e32c036-b515-41fd-84c9-b5964ed4799f,false
+2017-06-16,2560-06-16,,943142,943141 943143,626 878,740 373,47,https://api.glo.or.th/utility/file/download/fcbe8480-867b-4a12-ac5f-99daed7e1f2f,false
+2017-07-01,2560-07-01,,112360,112359 112361,226 489,688 005,26,https://api.glo.or.th/utility/file/download/03caa44c-3ea0-4f23-bc2e-1c0cc993f480,false
+2017-07-16,2560-07-16,,820327,820326 820328,835 584,390 823,87,https://api.glo.or.th/utility/file/download/1b8776f4-0896-488e-a268-5b3b383e88a2,false
+2017-08-01,2560-08-01,,756519,756518 756520,061 386,787 989,36,https://api.glo.or.th/utility/file/download/4274910b-4c31-42c2-ab65-4a9a46350cca,false
+2017-08-16,2560-08-16,,715431,715430 715432,115 302,253 945,37,https://api.glo.or.th/utility/file/download/3b1700c1-a2c4-4f58-a4c6-0b0b5e66c88e,false
+2017-09-01,2560-09-01,,143224,143223 143225,345 679,278 195,65,https://api.glo.or.th/utility/file/download/517908b1-a7f8-4d9b-b452-fed83fdd2261,true
+2017-09-16,2560-09-16,,170143,170142 170144,172 647,340 388,71,https://api.glo.or.th/utility/file/download/0dbc904b-5449-4f73-9410-c4279b2d1138,false
+2017-10-01,2560-10-01,,880714,880713 880715,611 726,462 952,52,https://api.glo.or.th/utility/file/download/2b825da0-5096-40f4-a48d-d646b04ca6fc,false
+2017-10-16,2560-10-16,,413494,413493 413495,180 971,287 128,86,https://api.glo.or.th/utility/file/download/0107bf80-b5d7-4fcc-a3ca-99806faea907,false
+2017-11-01,2560-11-01,,533726,533725 533727,165 425,485 036,85,https://api.glo.or.th/utility/file/download/50823b54-0f83-40e6-917a-b74ef4b9bf27,false
+2017-11-16,2560-11-16,,292391,292390 292392,961 831,477 628,98,https://api.glo.or.th/utility/file/download/41db016c-8d52-44d8-b479-caeec8c00697,false
+2017-12-01,2560-12-01,,451005,451004 451006,626 303,601 257,33,https://api.glo.or.th/utility/file/download/2c364138-4408-4d2c-ab3c-95a58ba012f0,false
+2017-12-16,2560-12-16,,955596,955595 955597,616 836,290 938,89,https://api.glo.or.th/utility/file/download/1cce787f-6377-4547-a414-27efb67fe413,false
+2017-12-30,2560-12-30,,911234,911233 911235,495 373,953 504,98,https://api.glo.or.th/utility/file/download/c8ea2ea3-0a93-4528-831f-7a3c9c3c86c4,false
+2018-01-17,2561-01-17,,203823,203822 203824,624 799,236 397,50,https://api.glo.or.th/utility/file/download/337e583c-ddf5-4499-9d02-c7bc8f3bdab9,false
+2018-02-01,2561-02-01,,026853,026852 026854,106 947,181 519,31,https://api.glo.or.th/utility/file/download/47767e22-a8a1-414a-9db2-d3de127356cd,false
+2018-02-16,2561-02-16,,309915,309914 309916,007 388,230 748,39,https://api.glo.or.th/utility/file/download/30006708-c84e-4948-b120-8f43a805ecc0,false
+2018-03-02,2561-03-02,,759415,759414 759416,318 870,723 589,29,https://api.glo.or.th/utility/file/download/5d400459-6460-4097-8558-c559cd80d774,true
+2018-03-16,2561-03-16,,218559,218558 218560,720 064,205 489,82,https://api.glo.or.th/utility/file/download/d5afb1a9-53ed-4252-b64b-7b510eeb96fe,false
+2018-04-01,2561-04-01,,412073,412072 412074,787 131,924 638,85,https://api.glo.or.th/utility/file/download/d1427101-7939-4ca9-9553-08df5cc6e53b,false
+2018-04-16,2561-04-16,,739229,739228 739230,273 654,076 526,60,https://api.glo.or.th/utility/file/download/f5bd6128-e02f-49b6-8eb1-9b01ae1e17a1,false
+2018-05-02,2561-05-02,,248038,248037 248039,980 527,225 602,85,https://api.glo.or.th/utility/file/download/1dcaccef-9100-4dfb-bff9-1d5be25ce101,false
+2018-05-16,2561-05-16,,075629,075628 075630,357 130,506 047,20,https://api.glo.or.th/utility/file/download/665cc7f2-da9b-45c6-82d4-d53d50ff9dcb,false
+2018-06-01,2561-06-01,,988117,988116 988118,553 310,248 650,95,https://api.glo.or.th/utility/file/download/33101d95-02f8-46a4-b810-f7383b097ba6,false
+2018-06-16,2561-06-16,,223131,223130 223132,432 507,132 868,46,https://api.glo.or.th/utility/file/download/745d77df-b2b6-4ee0-98e4-ba9da8f09678,false
+2018-07-01,2561-07-01,,963623,963622 963624,901 429,210 217,83,https://api.glo.or.th/utility/file/download/6ce4855e-931a-4e6d-bd17-b7680140a041,false
+2018-07-16,2561-07-16,,596324,596323 596325,530 403,362 138,27,https://api.glo.or.th/utility/file/download/113dd57c-b01e-4e0e-b879-be7978c6c9d2,false
+2018-08-01,2561-08-01,,386602,386601 386603,903 832,549 726,78,https://api.glo.or.th/utility/file/download/8425bb22-ddc1-42ad-8289-e7ad26a9e4e4,false
+2018-08-16,2561-08-16,,586117,586116 586118,670 340,815 591,10,https://api.glo.or.th/utility/file/download/b4e13441-7f58-4408-bfc4-093c7dd79c2f,true
+2018-09-01,2561-09-01,,734510,734509 734511,512 464,202 097,26,https://api.glo.or.th/utility/file/download/82f8a464-aa9e-42b5-a7d5-198932a44b67,false
+2018-09-16,2561-09-16,,149760,149759 149761,539 323,297 155,79,https://api.glo.or.th/utility/file/download/4f9ffccf-054d-45a7-b357-7dc1858ff1dc,false
+2018-10-01,2561-10-01,,452643,452642 452644,726 594,810 561,99,https://api.glo.or.th/utility/file/download/4b7f9a2c-cc75-4722-a64e-2975b0df3736,false
+2018-10-16,2561-10-16,,200515,200514 200516,392 186,212 192,93,https://api.glo.or.th/utility/file/download/1197946f-5d46-4ab2-9b8f-69e127de9544,false
+2018-11-01,2561-11-01,,149840,149839 149841,384 576,509 046,58,https://api.glo.or.th/utility/file/download/093bfed2-7f82-467a-8432-ba3db04b27ee,false
+2018-11-16,2561-11-16,,989903,989902 989904,930 471,140 876,16,https://api.glo.or.th/utility/file/download/4bbda0b1-fee6-478d-9c50-fc6bbbbf1caf,false
+2018-12-01,2561-12-01,,021840,021839 021841,045 307,988 561,67,https://api.glo.or.th/utility/file/download/498192c9-0f9c-4092-8308-d1b60b07ed6d,false
+2018-12-16,2561-12-16,,356564,356563 356565,480 948,369 297,62,https://api.glo.or.th/utility/file/download/31c85ab8-e555-48fd-99ea-6b8dc6d28186,false
+2018-12-30,2561-12-30,,735867,735866 735868,913 031,701 884,02,https://api.glo.or.th/utility/file/download/0e6ce589-b1da-4b72-ac6a-b6cbc0827f39,false
+2019-01-17,2562-01-17,,197079,197078 197080,206 412,660 127,65,https://api.glo.or.th/utility/file/download/ed3792a2-08cc-45f3-b33b-bb1f4589fae9,false
+2019-02-01,2562-02-01,,967134,967133 967135,643 779,948 197,04,https://api.glo.or.th/utility/file/download/483533c0-38e4-4ce1-aaf4-37fbcfdd91d0,false
+2019-02-16,2562-02-16,,074824,074823 074825,881 910,879 612,56,https://api.glo.or.th/utility/file/download/ed7faf8a-19e7-41be-9f73-456b14a959a7,false
+2019-03-01,2562-03-01,,345650,345649 345651,999 137,830 837,65,https://api.glo.or.th/utility/file/download/98429295-e943-4fa9-947a-1d1cfb089f47,false
+2019-03-16,2562-03-16,,724628,724627 724629,883 148,877 154,64,https://api.glo.or.th/utility/file/download/7c98f6c6-9c8e-47c4-8be3-7c030ac6af9c,false
+2019-04-01,2562-04-01,,109767,109766 109768,888 959,403 975,52,https://api.glo.or.th/utility/file/download/364192c0-47e9-4756-a868-af0674650bc6,false
+2019-04-16,2562-04-16,,570331,570330 570332,930 512,966 968,23,https://api.glo.or.th/utility/file/download/54579961-653d-4220-9134-096e7a47d31f,false
+2019-05-02,2562-05-02,,061324,061323 061325,043 476,699 374,25,https://api.glo.or.th/utility/file/download/fa337a19-aa57-462b-8e92-21ece18058fa,false
+2019-05-16,2562-05-16,,962526,962525 962527,949 669,828 018,71,https://api.glo.or.th/utility/file/download/a2aa0e38-6c90-4622-90e7-4972ed3cba0c,false
+2019-06-01,2562-06-01,,516461,516460 516462,589 713,560 215,46,https://api.glo.or.th/utility/file/download/cb492e0c-b211-4d28-a45d-e68e1f1a0e42,false
+2019-06-16,2562-06-16,,174055,174054 174056,884 625,800 127,29,https://api.glo.or.th/utility/file/download/fb6ae2d7-e408-44a2-9bae-5f3a1d9c0cc0,true
+2019-07-01,2562-07-01,,943647,943646 943648,864 239,375 006,86,https://api.glo.or.th/utility/file/download/83c35e3a-c975-426d-9b86-4b3c269b174c,false
+2019-07-15,2562-07-15,,369765,369764 369766,901 355,556 113,88,https://api.glo.or.th/utility/file/download/15d20b9c-c4e9-482e-b04f-aaea3d3fc53f,true
+2019-08-01,2562-08-01,,387006,387005 387007,983 135,795 562,58,https://api.glo.or.th/utility/file/download/0e27da13-8e2f-4972-a1f0-1ee25adf5ab3,true
+2019-08-16,2562-08-16,,775476,775475 775477,149 912,563 580,89,https://api.glo.or.th/utility/file/download/251cbc0d-895a-420f-a4f2-c24627b5ddd9,false
+2019-09-01,2562-09-01,,798787,798786 798788,210 847,439 274,20,https://api.glo.or.th/utility/file/download/bb8b9ff5-c0f6-4f04-ae00-049d7c4a6b77,false
+2019-09-16,2562-09-16,,340388,340387 340389,947 733,925 939,85,https://api.glo.or.th/utility/file/download/5e790804-b3cf-4c30-8e3b-bef28da291b8,false
+2019-10-01,2562-10-01,,691197,691196 691198,920 392,606 797,59,https://api.glo.or.th/utility/file/download/b427a19e-90c8-47d1-96e9-7a107075fc10,false
+2019-10-16,2562-10-16,,812564,812563 812565,255 625,598 132,15,https://api.glo.or.th/utility/file/download/81fe6edf-9b71-432c-8714-0eb24ec203cc,false
+2019-11-01,2562-11-01,,967375,967374 967376,323 806,021 206,79,https://api.glo.or.th/utility/file/download/215732ab-7934-4b15-ab73-1da10404a170,false
+2019-11-16,2562-11-16,,017223,017222 017224,164 640,085 194,32,https://api.glo.or.th/utility/file/download/5e528c38-d5af-48da-ba94-5ff32362beaf,false
+2019-12-01,2562-12-01,,453522,453521 453523,617 261,457 013,81,https://api.glo.or.th/utility/file/download/0923fa9b-df3d-44f7-a47d-7a3bf90f9767,false
+2019-12-16,2562-12-16,,529924,529923 529925,138 043,555 665,97,https://api.glo.or.th/utility/file/download/85fa4783-0783-4136-b027-6cee4cf535cb,false
+2019-12-30,2562-12-30,,510541,510540 510542,116 382,250 140,81,https://api.glo.or.th/utility/file/download/e5bd324a-5708-4042-a234-29d4f1f8a815,false
+2020-01-17,2563-01-17,,491774,491773 491775,132 004,595 379,68,https://api.glo.or.th/utility/file/download/9c160eea-1603-4b04-8d24-c3320837730c,false
+2020-02-01,2563-02-01,,589227,589226 589228,259 552,927 375,06,https://api.glo.or.th/utility/file/download/0353301b-d0d0-4d7a-8a03-da90ef23b44e,false
+2020-02-16,2563-02-16,,781403,781402 781404,952 515,030 918,94,https://api.glo.or.th/utility/file/download/0403f540-34fd-4ba8-92d9-7e404102713c,true
+2020-03-01,2563-03-01,,875938,875937 875939,294 328,597 780,98,https://api.glo.or.th/utility/file/download/203902e4-8ee5-4bc3-a75c-286ab45a6763,false
+2020-03-16,2563-03-16,,503446,503445 503447,726 258,661 404,77,https://api.glo.or.th/utility/file/download/736ca7fa-6ed5-4a3e-a253-39af77e46717,false
+2020-04-01,2563-04-01,2020-05-16,051095,051094 051096,430 285,191 364,22,https://api.glo.or.th/utility/file/download/5a8b5b4a-da58-4e6b-a49d-2f23fb031cdc,true
+2020-06-01,2563-06-01,,831567,831566 831568,489 264,562 582,24,https://api.glo.or.th/utility/file/download/a65fdc52-edfb-4b49-a8ff-63f31a473056,false
+2020-06-16,2563-06-16,,516967,516966 516968,876 882,625 565,64,https://api.glo.or.th/utility/file/download/afe111fb-f8f7-4e8a-9cd3-c22ec1410089,false
+2020-07-01,2563-07-01,,347258,347257 347259,362 095,307 094,83,https://api.glo.or.th/utility/file/download/867ef6cb-528d-488e-a2db-e0ae9cfa5091,false
+2020-07-16,2563-07-16,,873286,873285 873287,510 533,682 494,53,https://api.glo.or.th/utility/file/download/194de793-36c1-41dd-9b9f-dd71fc8614fb,false
+2020-08-01,2563-08-01,,569391,569390 569392,931 575,578 809,92,https://api.glo.or.th/utility/file/download/b7e2370e-0e63-4121-aa47-2abbb9779f8b,false
+2020-08-16,2563-08-16,,945811,945810 945812,712 614,364 733,88,https://api.glo.or.th/utility/file/download/fb7edb02-3340-4090-9dbf-549d91d700c9,false
+2020-09-01,2563-09-01,,999997,999996 999998,725 636,957 342,98,https://api.glo.or.th/utility/file/download/0bfcbf9c-fb24-4f95-80b7-fb330c362fca,false
+2020-09-16,2563-09-16,,244083,244082 244084,220 127,853 623,57,https://api.glo.or.th/utility/file/download/b98c25ff-1889-43d1-b793-d1160dc0d6c7,false
+2020-10-01,2563-10-01,,837893,837892 837894,757 594,595 110,59,https://api.glo.or.th/utility/file/download/3fa310c7-0522-4f2c-b4ae-1aa8913fb356,false
+2020-10-16,2563-10-16,,286051,286050 286052,189 464,980 045,38,https://api.glo.or.th/utility/file/download/145e5831-38e6-4bfd-bda9-0df4a6fdb18d,false
+2020-11-01,2563-11-01,,506404,506403 506405,154 598,245 062,40,https://api.glo.or.th/utility/file/download/f3e57bf8-4772-4c0d-9a89-5a1252c70931,false
+2020-11-16,2563-11-16,,972661,972660 972662,368 741,208 255,46,https://api.glo.or.th/utility/file/download/d6ca9011-a15d-44b2-8c39-44c720666745,false
+2020-12-01,2563-12-01,,100994,100993 100995,093 776,984 834,84,https://api.glo.or.th/utility/file/download/8c87b7c4-d92c-4ffa-86f4-62493cf62cc0,false
+2020-12-16,2563-12-16,,201303,201302 201304,377 828,072 517,70,https://api.glo.or.th/utility/file/download/9b2be897-846e-48b7-9c6f-4b205d51a9b9,false
+2020-12-30,2563-12-30,,803628,803627 803629,336 804,924 321,19,https://api.glo.or.th/utility/file/download/faee0144-a40e-4974-8ae2-621befe79707,false
+2021-01-17,2564-01-17,,384395,384394 384396,653 367,878 566,15,https://api.glo.or.th/utility/file/download/059e2fd9-e452-4425-8a1e-de19c3a3eee6,false
+2021-02-01,2564-02-01,,912307,912306 912308,605 248,282 651,97,https://api.glo.or.th/utility/file/download/2a468175-c9e9-4060-8921-99a9a906ec65,false
+2021-02-16,2564-02-16,,424603,424602 424604,861 318,057 817,39,https://api.glo.or.th/utility/file/download/4a7c5aa0-21ac-4a07-8323-01df162d11bf,false
+2021-03-01,2564-03-01,,835538,835537 835539,290 838,051 806,73,https://api.glo.or.th/utility/file/download/6004d168-907e-4f87-8d3a-6259ebffb634,false
+2021-03-16,2564-03-16,,890422,890421 890423,036 902,396 256,19,https://api.glo.or.th/utility/file/download/b4adf932-fc05-4eef-9aea-187ebb9a0270,false
+2021-04-01,2564-04-01,,472270,472269 472271,755 283,393 577,05,https://api.glo.or.th/utility/file/download/fe8f0e75-557a-4f23-96fc-603f2f5b509a,true
+2021-04-16,2564-04-16,,100787,100786 100788,143 013,478 264,56,https://api.glo.or.th/utility/file/download/cb08f7c7-8df2-4213-ab2e-e7b895fb941c,false
+2021-05-02,2564-05-02,,501272,501271 501273,306 018,498 129,18,https://api.glo.or.th/utility/file/download/3e45ac42-38b9-4def-af8b-59b347a6d218,false
+2021-05-16,2564-05-16,,684579,684578 684580,843 615,276 970,14,https://api.glo.or.th/utility/file/download/402ef314-2307-469e-b8c0-ce6ca70527c5,false
+2021-06-01,2564-06-01,,292972,292971 292973,620 193,978 723,45,https://api.glo.or.th/utility/file/download/424e3f5d-44d4-4bfc-8d53-cfb8e226b239,false
+2021-06-16,2564-06-16,,691861,691860 691862,054 007,447 668,17,https://api.glo.or.th/utility/file/download/d68d9477-8fb4-4c49-bccb-62c72bfaf815,false
+2021-07-01,2564-07-01,,713517,713516 713518,794 073,511 414,29,https://api.glo.or.th/utility/file/download/37d04aaf-5e1f-444c-b552-253eaa11de9c,false
+2021-07-16,2564-07-16,,556725,556724 556726,174 058,233 927,70,https://api.glo.or.th/utility/file/download/91cd3313-bd1b-4fae-ab2d-dc3577315c85,false
+2021-08-01,2564-08-01,,910261,910260 910262,103 307,004 785,69,https://api.glo.or.th/utility/file/download/d3217d52-2410-48aa-92f2-2b5f2128593c,false
+2021-08-16,2564-08-16,,046750,046749 046751,421 666,160 355,23,https://api.glo.or.th/utility/file/download/95017c46-6117-4823-b0b9-5198e7627906,false
+2021-09-01,2564-09-01,,114475,114474 114476,278 302,458 123,79,https://api.glo.or.th/utility/file/download/1af20bf8-e133-4df8-b02e-3c37d26a4617,false
+2021-09-16,2564-09-16,,070935,070934 070936,609 817,379 007,90,https://api.glo.or.th/utility/file/download/bb32c1b6-84dd-4191-b0d6-9a45db62f87c,false
+2021-10-01,2564-10-01,,578171,578170 578172,285 361,379 449,83,https://api.glo.or.th/utility/file/download/42a7b1c9-c8f0-48ba-87f7-530cc763d65f,false
+2021-10-16,2564-10-16,,386372,386371 386373,602 964,295 798,38,https://api.glo.or.th/utility/file/download/8422edf3-7b5c-4cee-8e03-3cec02cc269e,false
+2021-11-01,2564-11-01,,045037,045036 045038,458 247,755 331,95,https://api.glo.or.th/utility/file/download/721ddbe4-855e-4f45-a22d-659b5998f011,false
+2021-11-16,2564-11-16,,032761,032760 032762,648 471,844 245,57,https://api.glo.or.th/utility/file/download/8523aaaf-b0e3-4cc7-8755-98ed7e7c0f3a,false
+2021-12-01,2564-12-01,,077258,077257 077259,740 739,485 401,82,https://api.glo.or.th/utility/file/download/21d3998b-d3b3-4ab9-a53e-dafbba9d2662,false
+2021-12-16,2564-12-16,,639235,639234 639236,097 629,476 522,83,https://api.glo.or.th/utility/file/download/0401b4d9-34ec-44d2-a457-04209cae52c7,false
+2021-12-30,2564-12-30,,819068,819067 819069,591 979,547 419,36,https://api.glo.or.th/utility/file/download/d416c36a-dffe-4b06-96ba-6fc970f3269c,true
+2022-01-17,2565-01-17,,880159,880158 880160,731 786,529 119,92,https://api.glo.or.th/utility/file/download/0def8c35-5e3e-4c0e-86d7-6c734faeead5,false
+2022-02-01,2565-02-01,,944308,944307 944309,942 061,509 485,30,https://api.glo.or.th/utility/file/download/44da1e1a-fc4e-4975-af88-5f980956d168,false
+2022-02-17,2565-02-17,,098597,098596 098598,644 085,816 592,57,https://api.glo.or.th/utility/file/download/901b5f93-7315-4df4-b757-edc8462cc336,false
+2022-03-01,2565-03-01,,061905,061904 061906,236 834,234 691,07,https://api.glo.or.th/utility/file/download/c39a6b67-5e60-441f-95fe-d592923dad72,false
+2022-03-16,2565-03-16,,737867,737866 737868,349 985,989 788,03,https://api.glo.or.th/utility/file/download/210bf933-73c4-4b03-a58c-ee3f1b7ca72a,false
+2022-04-01,2565-04-01,,970618,970617 970619,738 391,578 870,10,https://api.glo.or.th/utility/file/download/50f8c838-0f79-4b8b-bb72-249557adef6d,false
+2022-04-16,2565-04-16,,395919,395918 395920,859 289,413 508,58,https://api.glo.or.th/utility/file/download/2ed2b519-8a2d-461b-bb38-b5935023e931,false
+2022-05-02,2565-05-02,,658642,658641 658643,778 518,041 325,09,https://api.glo.or.th/utility/file/download/e8b6bcca-7ca6-4799-974c-0b219c002743,false
+2022-05-16,2565-05-16,,155012,155011 155013,247 736,540 236,06,https://api.glo.or.th/utility/file/download/289e1de8-7a95-41cf-b432-ef2f5d8c42cd,false
+2022-06-01,2565-06-01,,319196,319195 319197,817 679,213 652,02,https://api.glo.or.th/utility/file/download/b6e76719-0d3b-4f04-94c6-fcc0f15b2336,false
+2022-06-16,2565-06-16,,361807,361806 361808,549 285,228 106,92,https://api.glo.or.th/utility/file/download/19d3da72-a1b3-474f-8297-94ac054280ed,false
+2022-07-01,2565-07-01,,981417,981416 981418,287 242,002 542,61,https://api.glo.or.th/utility/file/download/d544339b-7e7c-4df9-8412-09622f99ec50,false
+2022-07-16,2565-07-16,,620405,620404 620406,159 834,279 061,53,https://api.glo.or.th/utility/file/download/59c8626e-0ff9-49f1-9cc3-5d0d54032407,false
+2022-08-01,2565-08-01,,436594,436593 436595,893 266,447 282,14,https://api.glo.or.th/utility/file/download/e8f58500-ab6c-42de-b55e-2c7768d0cf0d,false
+2022-08-16,2565-08-16,,331583,331582 331584,271 300,284 876,42,https://api.glo.or.th/utility/file/download/6bc043c7-f428-417f-8cab-1ab1d8a929c8,true
+2022-09-01,2565-09-01,,929332,929331 929333,725 298,604 210,83,https://api.glo.or.th/utility/file/download/9eec79d0-93cd-488a-98ef-609d4c8a109f,false
+2022-09-16,2565-09-16,,943703,943702 943704,971 540,631 432,75,https://api.glo.or.th/utility/file/download/ac35e4a7-6b95-42d1-8b26-1945fb0d1283,false
+2022-10-01,2565-10-01,,484669,484668 484670,206 996,278 194,50,https://api.glo.or.th/utility/file/download/83024483-e8b7-419c-ac29-dfd05e38e095,false
+2022-10-16,2565-10-16,,613106,613105 613107,158 037,606 799,15,https://api.glo.or.th/utility/file/download/7611f43b-aa7d-4c2a-8944-6717fd6903b2,false
+2022-11-01,2565-11-01,,913106,913105 913107,722 839,343 922,70,https://api.glo.or.th/utility/file/download/548b6082-e091-43c7-ad3a-b69e109eafc5,false
+2022-11-16,2565-11-16,,121789,121788 121790,722 532,157 973,64,https://api.glo.or.th/utility/file/download/36eae899-ec0d-4383-bacb-ed9bb17b0e8e,false
+2022-12-01,2565-12-01,,375805,375804 375806,170 786,409 421,08,https://api.glo.or.th/utility/file/download/723d8ca5-a70e-4fe9-9793-af5b7d25671a,false
+2022-12-16,2565-12-16,,845093,845092 845094,912 411,855 593,14,https://api.glo.or.th/utility/file/download/df4e1de2-3c28-4971-86b6-a4ea4aa026ff,false
+2022-12-30,2565-12-30,,157196,157195 157197,007 522,250 425,58,https://api.glo.or.th/utility/file/download/fa547998-9f2f-440e-af75-7fc8f8b72bdb,false
+2023-01-17,2566-01-17,,812519,812518 812520,443 389,849 564,47,https://api.glo.or.th/utility/file/download/b993a717-6fb7-43f6-b518-e03e3895b190,false
+2023-02-01,2566-02-01,,297411,297410 297412,181 789,101 664,92,https://api.glo.or.th/utility/file/download/d4271921-7a7e-474f-9d26-e29519eb272b,false
+2023-02-16,2566-02-16,,590417,590416 590418,664 195,523 377,80,https://api.glo.or.th/utility/file/download/f4bffbb4-cce1-427d-ba8d-0de77201e2b3,false
+2023-03-01,2566-03-01,,417652,417651 417653,577 919,748 984,55,https://api.glo.or.th/utility/file/download/18051e7e-339f-45cb-a73c-7e78d0e93980,false
+2023-03-16,2566-03-16,,025873,025872 025874,420 800,355 544,73,https://api.glo.or.th/utility/file/download/8a9d23c6-1cc0-4c23-8959-7040acae5d0a,false
+2023-04-01,2566-04-01,,087907,087906 087908,111 914,698 290,99,https://api.glo.or.th/utility/file/download/78ac46d5-a3ac-4d6a-b124-1b0172b440ab,false
+2023-04-16,2566-04-16,,984906,984905 984907,670 678,797 551,71,https://api.glo.or.th/utility/file/download/e5a27218-656d-4ec6-be1c-07b34b694344,false
+2023-05-02,2566-05-02,,843019,843018 843020,500 780,269 187,65,https://api.glo.or.th/utility/file/download/1820c36d-afa2-4404-b950-b1f78270533e,false
+2023-05-16,2566-05-16,,132903,132902 132904,739 678,693 731,99,https://api.glo.or.th/utility/file/download/93251eaa-43ba-4ac7-9775-86d17968ab0b,false
+2023-06-01,2566-06-01,,125272,125271 125273,681 000,971 386,09,https://api.glo.or.th/utility/file/download/18c81007-d453-47af-8aa3-ee0d30ca602d,false
+2023-06-16,2566-06-16,,264872,264871 264873,519 628,202 874,30,https://api.glo.or.th/utility/file/download/90cfdb79-db60-4694-88ed-96134e4c6884,false
+2023-07-01,2566-07-01,,922605,922604 922606,867 281,947 491,16,https://api.glo.or.th/utility/file/download/d8650fe1-141e-4991-a0d9-3007e3d6da22,false
+2023-07-16,2566-07-16,,169530,169529 169531,261 384,780 066,62,https://api.glo.or.th/utility/file/download/8fa6017e-0687-4675-b9bc-4eeef32889d0,false
+2023-07-31,2566-07-31,,260453,260452 260454,268 708,387 601,11,https://api.glo.or.th/utility/file/download/2ff84569-9b0e-4e5e-860f-6a23d4a080a2,true
+2023-08-16,2566-08-16,,471782,471781 471783,431 739,737 742,67,https://api.glo.or.th/utility/file/download/598d363f-ca44-465a-b6fb-bee78690c1e8,false
+2023-09-01,2566-09-01,,915478,915477 915479,521 596,692 291,91,https://api.glo.or.th/utility/file/download/c6f6dec9-9f83-4402-8a0d-d56cc95aea11,false
+2023-09-16,2566-09-16,,320812,320811 320813,699 037,344 057,46,https://api.glo.or.th/utility/file/download/906e4427-b8cd-423f-912c-1e8cfcb8a152,false
+2023-10-01,2566-10-01,,727202,727201 727203,355 324,426 615,66,https://api.glo.or.th/utility/file/download/98180dae-7d04-43d5-8c5c-4bb1e080dc66,false
+2023-10-16,2566-10-16,,931446,931445 931447,398 167,970 272,44,https://api.glo.or.th/utility/file/download/bfb44c52-4e51-48a7-9f83-40ae66a377bb,false
+2023-11-01,2566-11-01,,743951,743950 743952,913 335,019 349,63,https://api.glo.or.th/utility/file/download/4bf1fcae-9035-481f-94f5-6a0aef08a6f3,false
+2023-11-16,2566-11-16,,557990,557989 557991,412 346,778 961,14,https://api.glo.or.th/utility/file/download/c690240f-a7d8-4cd2-a0b9-dd55af8570b5,true
+2023-12-01,2566-12-01,,251097,251096 251098,265 055,280 092,91,https://api.glo.or.th/utility/file/download/e2b121d4-bb5f-45b7-b269-d34baf857b36,false
+2023-12-16,2566-12-16,,356757,356756 356758,058 410,964 584,85,https://api.glo.or.th/utility/file/download/4666308d-6e2e-4156-9d0e-180cd9395dff,false
+2023-12-30,2566-12-30,,625544,625543 625545,600 648,882 456,89,https://api.glo.or.th/utility/file/download/58ae095b-350e-4d93-aa48-3ea0d562eafd,false
+2024-01-17,2567-01-17,,105979,105978 105980,429 931,196 635,61,https://api.glo.or.th/utility/file/download/def69797-7d46-4072-a7d0-473bf415d3e9,false
+2024-02-01,2567-02-01,,607063,607062 607064,943 454,591 544,09,https://api.glo.or.th/utility/file/download/29fbd763-6328-4da6-8e7b-b664df586aba,false
+2024-02-16,2567-02-16,,941395,941394 941396,056 330,587 375,43,https://api.glo.or.th/utility/file/download/323a7755-69a8-450c-a13c-b1f4a6e6ba7f,false
+2024-03-01,2567-03-01,,253603,253602 253604,975 900,382 703,79,https://api.glo.or.th/utility/file/download/e69671d4-cc33-4d53-bd0b-bea64c3d992e,false
+2024-03-16,2567-03-16,,997626,997625 997627,571 509,794 329,78,https://api.glo.or.th/utility/file/download/2930e8bf-d06d-45d9-a5c6-1a2ab3daba36,false
+2024-04-01,2567-04-01,,803481,803480 803482,122 809,559 947,90,https://api.glo.or.th/utility/file/download/1c3aeaa9-1d6b-46bc-95e9-6d7aba3a5851,false
+2024-04-16,2567-04-16,,943598,943597 943599,729 727,154 200,79,https://api.glo.or.th/utility/file/download/73c281fd-e875-464a-a0f8-dd680d71d0bf,true
+2024-05-02,2567-05-02,,980116,980115 980117,104 763,833 634,17,https://api.glo.or.th/utility/file/download/e652180f-5729-4082-8ce7-ed492cb15e8d,false
+2024-05-16,2567-05-16,,205690,205689 205691,885 747,137 070,60,https://api.glo.or.th/utility/file/download/6a3df85e-6751-43bd-9bd1-b48aef766202,false
+2024-06-01,2567-06-01,,530593,530592 530594,194 364,421 734,42,https://api.glo.or.th/utility/file/download/125b3da0-5acb-4801-9b13-38114f71bf49,false
+2024-06-16,2567-06-16,,518504,518503 518505,428 016,447 426,31,https://api.glo.or.th/utility/file/download/8a28f46b-b700-45f1-b557-1acbb0df8b80,false
+2024-07-01,2567-07-01,,434503,434502 434504,839 975,778 647,89,https://api.glo.or.th/utility/file/download/22158d40-9bd9-405c-a886-300fc0f50d37,false
+2024-07-16,2567-07-16,,367336,367335 367337,331 011,421 618,21,https://api.glo.or.th/utility/file/download/97d303b9-161b-4393-b4a9-2e3a1c94d156,false
+2024-08-01,2567-08-01,,407041,407040 407042,408 579,622 070,46,https://api.glo.or.th/utility/file/download/c030e80d-b1aa-4611-8e41-e319ab075d09,false
+2024-08-16,2567-08-16,,095867,095866 095868,334 212,697 728,28,https://api.glo.or.th/utility/file/download/5a6fe0ad-e37e-4db1-9b29-71f11ad9d0a2,false
+2024-09-01,2567-09-01,,199606,199605 199607,173 220,094 388,94,https://api.glo.or.th/utility/file/download/14e0c585-c9dc-4ea9-a58e-575d805cfb25,false
+2024-09-16,2567-09-16,,608662,608661 608663,230 904,008 408,37,https://api.glo.or.th/utility/file/download/116185b5-4447-499b-87e4-39fd38286c42,false
+2024-10-01,2567-10-01,,718665,718664 718666,053 812,079 566,59,https://api.glo.or.th/utility/file/download/b8faaf93-dce1-49b7-ac92-a984cc74a0b4,false
+2024-10-16,2567-10-16,,482962,482961 482963,648 561,919 493,00,https://api.glo.or.th/utility/file/download/ca653e10-5b21-4e4b-bd8c-1dc519e49840,false
+2024-11-01,2567-11-01,,536044,536043 536045,174 225,063 231,32,https://api.glo.or.th/utility/file/download/fad3fd8e-5f10-4694-90d5-364a57456ba6,false
+2024-11-16,2567-11-16,,187221,187220 187222,036 923,980 547,38,https://api.glo.or.th/utility/file/download/f26bc0ca-2c16-4530-a7d2-d1f5378d33cb,false
+2024-12-01,2567-12-01,,669843,669842 669844,626 559,098 654,61,https://api.glo.or.th/utility/file/download/a89340ea-2ec9-4bdb-8279-a5daed0d4060,false
+2024-12-16,2567-12-16,,097863,097862 097864,290 742,881 339,21,https://api.glo.or.th/utility/file/download/7936f407-af2c-49bc-85da-f6f4e368806f,false
+2025-01-02,2568-01-02,,730209,730208 730210,446 065,376 297,51,https://api.glo.or.th/utility/file/download/a9af1ae8-e30b-41c8-9859-429e60b08986,false
+2025-01-17,2568-01-17,,807779,807778 807780,961 699,448 477,23,https://api.glo.or.th/utility/file/download/2daed332-e3f5-40ca-b2cf-76a67a572627,false
+2025-02-01,2568-02-01,,558700,558699 558701,285 418,824 685,51,https://api.glo.or.th/utility/file/download/d6b20c70-28a1-489c-88d1-4cc640db0e53,false
+2025-02-16,2568-02-16,,847377,847376 847378,268 613,652 001,50,https://api.glo.or.th/utility/file/download/fe5fb51b-b53f-4f21-93cf-5cfda806f8e9,false
+2025-03-01,2568-03-01,,818894,818893 818895,139 530,781 656,54,https://api.glo.or.th/utility/file/download/8f133af1-eaec-43fc-96bb-5a9b7cde5722,false
+2025-03-16,2568-03-16,,757563,757562 757564,595 927,457 309,32,https://api.glo.or.th/utility/file/download/e47b7922-6fe5-4b45-b414-35c2bb26f32c,false
+2025-04-01,2568-04-01,,669687,669686 669688,635 760,180 666,36,https://api.glo.or.th/utility/file/download/4f8e4aeb-ed2c-4f06-879f-747cb6576a3e,false
+2025-04-16,2568-04-16,,266227,266226 266228,413 254,474 760,85,https://api.glo.or.th/utility/file/download/45eb50e2-2d95-4508-b2b0-aa915bbea842,false
+2025-05-02,2568-05-02,,213388,213387 213389,826 116,167 662,06,https://api.glo.or.th/utility/file/download/b7d09046-fa71-465f-bebb-c077e37b5857,false
+2025-05-16,2568-05-16,,251309,251308 251310,109 231,965 631,87,https://api.glo.or.th/utility/file/download/5f368ab9-46bd-4591-b702-1ddb210ec29e,false
+2025-06-01,2568-06-01,,559352,559351 559353,349 134,307 044,20,https://api.glo.or.th/utility/file/download/f4b8bd89-24d0-4299-989f-da6e9568e7d3,false
+2025-06-16,2568-06-16,,507392,507391 507393,243 017,299 736,06,https://api.glo.or.th/utility/file/download/5d1c7e15-a71a-4a9e-8373-cb82717774e5,false
+2025-07-01,2568-07-01,,949246,949245 949247,680 169,918 261,91,https://api.glo.or.th/utility/file/download/2678d7a1-c212-4700-bf74-fb35d6900c8a,true
+2025-07-16,2568-07-16,,245324,245323 245325,995 171,084 336,26,https://api.glo.or.th/utility/file/download/1277d4f3-8860-4494-81a7-25e6a818a157,false
+2025-08-01,2568-08-01,,811852,811851 811853,525 142,891 512,50,https://api.glo.or.th/utility/file/download/0233469e-e3cf-4570-b963-d3b7383aab92,false
+2025-08-16,2568-08-16,,994865,994864 994866,602 247,834 989,63,https://api.glo.or.th/utility/file/download/f882affc-0e5b-466a-aed7-b72cc016fa47,false
+2025-09-01,2568-09-01,,506356,506355 506357,131 012,022 209,31,https://api.glo.or.th/utility/file/download/b3a9d912-8764-40fa-ab0e-4e54e632b744,false
+2025-09-16,2568-09-16,,074646,074645 074647,740 512,308 703,58,https://api.glo.or.th/utility/file/download/a457cc38-3705-4a59-927f-3c9f90130977,false
+2025-10-01,2568-10-01,,876978,876977 876979,843 532,280 605,77,https://api.glo.or.th/utility/file/download/0caed849-2cf3-4777-8c3c-5a7bf4dca5d4,false
+2025-10-16,2568-10-16,,059696,059695 059697,955 531,889 476,61,https://api.glo.or.th/utility/file/download/15290bff-70b2-48a7-a8b9-35bee7c00d54,false
+2025-11-01,2568-11-01,,345898,345897 345899,449 328,111 690,87,https://api.glo.or.th/utility/file/download/5b7f1a27-18bd-471f-b28f-b55595733c8f,false
+2025-11-16,2568-11-16,,458145,458144 458146,602 242,389 239,37,https://api.glo.or.th/utility/file/download/586cfd18-a909-4982-ab44-d59046995093,false
+2025-12-01,2568-12-01,,461252,461251 461253,655 389,137 995,22,https://api.glo.or.th/utility/file/download/9371a409-2ca1-465b-a824-e3a58194ef7b,false
+2025-12-16,2568-12-16,,763895,763894 763896,431 176,014 449,52,https://api.glo.or.th/utility/file/download/0c8c3f0e-bf9e-4589-bc98-4e68201a52e7,false
+2026-01-02,2569-01-02,,837706,837705 837707,694 347,288 765,16,https://api.glo.or.th/utility/file/download/f4575ff4-2286-4125-a9e8-9d9f99042049,true
+2026-01-17,2569-01-17,,878972,878971 878973,299 815,662 363,02,https://api.glo.or.th/utility/file/download/6ab11f29-5ac7-4275-922c-41096765cae3,false
+2026-02-01,2569-02-01,,174629,174628 174630,917 195,408 041,48,https://api.glo.or.th/utility/file/download/486b22aa-643c-4a16-8276-0813c7a7f163,false
+2026-02-16,2569-02-16,,340563,340562 340564,527 241,578 169,07,https://api.glo.or.th/utility/file/download/0df39a6a-974d-4392-81bc-da1c789eb2b5,false
+2026-03-01,2569-03-01,,820866,820865 820867,479 054,068 837,06,https://api.glo.or.th/utility/file/download/10066e8d-d2df-41c5-ae42-8dfc3fff272a,false
+2026-03-16,2569-03-16,,833009,833008 833010,510 983,439 954,64,https://api.glo.or.th/utility/file/download/5ecdeec4-cbb5-4a9c-9f38-ab1cd4f90916,false
+2026-04-01,2569-04-01,,292514,292513 292515,406 113,851 098,47,https://api.glo.or.th/utility/file/download/a5541b69-5126-4480-947c-56f88630b4c3,false
+2026-04-16,2569-04-16,,309612,309611 309613,355 108,868 424,77,https://api.glo.or.th/utility/file/download/de7e02f6-de0e-487a-a64e-c09347c9580b,false
+2026-05-02,2569-05-02,,536077,536076 536078,267 318,065 153,43,https://api.glo.or.th/utility/file/download/66d2225a-2ca8-4bb8-a131-e6a239ba76f3,false
+2026-05-16,2569-05-16,,107387,107386 107388,298 091,602 716,08,https://api.glo.or.th/utility/file/download/af78f79e-ed62-49aa-b280-8c78e1dbbfe1,false
+2026-06-01,2569-06-01,,173770,173769 173771,848 415,410 938,95,https://api.glo.or.th/utility/file/download/2f7b48e7-3a43-4054-9b02-07fe080e9211,false
+2026-06-16,2569-06-16,,287184,287183 287185,758 434,007 721,48,https://api.glo.or.th/utility/file/download/8572f5d7-3c5b-4ad2-ab30-0f78dc47511c,false
+2026-07-01,2569-07-01,,751495,751494 751496,001 980,304 531,62,https://api.glo.or.th/utility/file/download/a7d660d1-d670-4a7a-b5d9-edf138e97ebd,false
+2026-07-16,2569-07-16,,639214,639213 639215,683 709,746 427,71,https://api.glo.or.th/utility/file/download/e42a2164-1d65-4765-b4dd-89212ade2c2c,false
+2026-08-01,2569-08-01,,932479,932478 932480,413 672,154 039,69,https://api.glo.or.th/utility/file/download/d0087eea-044b-4b35-9831-6a45cbd0604f,false
+2026-08-16,2569-08-16,,004615,004614 004616,731 429,937 094,53,https://api.glo.or.th/utility/file/download/b02aa6da-4092-4274-badc-99dcd66ae66c,false
+2026-09-01,2569-09-01,,417212,417211 417213,257 346,136 740,04,https://api.glo.or.th/utility/file/download/e5b34626-63cd-435c-b5cb-ccb463d1499c,true
+2026-09-16,2569-09-16,,730640,730639 730641,060 521,266 041,64,https://api.glo.or.th/utility/file/download/b0e2f806-a9bb-4269-b2d8-a155e8a39e2d,false
+2026-10-01,2569-10-01,,402701,402700 402702,791 912,058 396,70,https://api.glo.or.th/utility/file/download/fdbd2111-5461-494d-9e45-91389297d1e9,true
+2026-10-16,2569-10-16,,011781,011780 011782,402 392,171 255,48,https://api.glo.or.th/utility/file/download/19b76165-a2a8-48ad-be3c-1d9cab30b4be,false
+2026-11-01,2569-11-01,,423224,423223 423225,300 950,393 804,85,https://api.glo.or.th/utility/file/download/a4f5131b-e5b1-4a02-8ace-89e135c87387,false

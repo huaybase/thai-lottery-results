@@ -1,0 +1,56 @@
+name: Sync from huaybase.com
+
+on:
+  schedule:
+    # 20:30 in Thailand, after a draw day's results are on the site.
+    - cron: '30 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: sync
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Download the files
+        run: |
+          mkdir -p "$RUNNER_TEMP/new"
+          for file in draws.csv prizes.csv notes.json; do
+            curl --fail --silent --show-error --location --retry 3 --retry-delay 30 \
+              --output "$RUNNER_TEMP/new/$file" "https://huaybase.com/dataset/$file"
+          done
+
+      - name: Stop if the download looks wrong
+        run: |
+          for file in draws.csv prizes.csv; do
+            new="$RUNNER_TEMP/new/$file"
+            if [ "$(head -n 1 "$new")" != "$(head -n 1 "$file")" ]; then
+              echo "::error::$file has different columns"
+              exit 1
+            fi
+            if [ "$(wc -l < "$new")" -lt "$(wc -l < "$file")" ]; then
+              echo "::error::$file lost rows"
+              exit 1
+            fi
+          done
+          python3 -m json.tool "$RUNNER_TEMP/new/notes.json" > /dev/null
+
+      - name: Commit if anything changed
+        run: |
+          cp "$RUNNER_TEMP"/new/* .
+          git add draws.csv prizes.csv notes.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          latest=$(tail -n 1 draws.csv | cut -d, -f1)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Update the data through the $latest draw"
+          git push
